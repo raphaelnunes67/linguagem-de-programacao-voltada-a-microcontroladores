@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+      {
+          "name": "(gdb) Launch",
+          "type": "cppdbg",
+          "request": "launch",
+          "program": "${workspaceFolder}\\aula13\\mercadinho.exe",
+          "cwd": "${workspaceFolder}\\aula13\\",
+          "MIMode": "gdb",
+          "miDebuggerPath": "C:/MinGW/bin/gdb.exe" // Caminho completo para o GDB
+      }
+  ]
+}
