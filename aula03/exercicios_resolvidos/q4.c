@@ -1,3 +1,6 @@
+// Crie um script para:
+// Calcular a média ponderada de 3 notas com pesos 2, 3 e 5.
+
 #include<stdio.h>
 
 int main(){

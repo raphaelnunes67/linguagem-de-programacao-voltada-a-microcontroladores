@@ -1,3 +1,6 @@
+// Crie um script para:
+// Calcular o desconto em um produto: Vfinal = V − (V · d%).
+
 #include<stdio.h>
 
 int main(){

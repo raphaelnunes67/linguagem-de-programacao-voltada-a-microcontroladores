@@ -1,3 +1,6 @@
+//Crie um script para:
+// Converter km/h para m/s: vms = vkmh/3.6 
+
 #include<stdio.h>
 
 int main(){

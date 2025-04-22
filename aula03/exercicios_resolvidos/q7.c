@@ -1,3 +1,6 @@
+// Crie um script para:
+// Calcular o perímetro de um retângulo: P = 2 · (b + h).
+
 #include<stdio.h>
 
 int main(){

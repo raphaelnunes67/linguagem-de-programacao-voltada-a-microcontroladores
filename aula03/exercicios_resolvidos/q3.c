@@ -1,3 +1,6 @@
+// Crie um script para:
+// Converter temperatura Celsius para Fahrenheit: F = (C × 1.8) + 32.
+
 #include<stdio.h>
 
 int main(){

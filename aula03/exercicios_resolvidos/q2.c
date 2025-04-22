@@ -1,3 +1,5 @@
+// Crie um script para:
+// Calcular o IMC: IMC = peso / altura ^ 2 
 #include<stdio.h>
 
 int main(){

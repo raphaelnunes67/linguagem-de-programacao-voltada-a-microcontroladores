@@ -1,3 +1,6 @@
+// Crie um script para:
+// Calcular a energia potencial: Ep = mgh.
+
 #include<stdio.h>
 
 int main(){

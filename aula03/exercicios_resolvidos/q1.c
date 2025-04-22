@@ -1,3 +1,6 @@
+// Crie um script para:
+// Calcular a área de um triângulo: A = b·h / 2
+
 #include<stdio.h>
 
 int main(){

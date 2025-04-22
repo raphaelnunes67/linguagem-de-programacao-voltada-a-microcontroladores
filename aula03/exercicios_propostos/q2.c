@@ -1,3 +1,6 @@
+//Crie um script para:
+// Calcular o tempo de queda de um objeto: t = (p2h/g)^(1/2) .
+
 #include<stdio.h>
 #include<math.h>
 

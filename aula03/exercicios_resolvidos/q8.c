@@ -1,3 +1,5 @@
+// Crie um script para:
+// Converter tempo em horas e minutos para minutos totais.
 #include<stdio.h>
 
 int main(){

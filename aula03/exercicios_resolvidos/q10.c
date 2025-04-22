@@ -1,3 +1,6 @@
+// Crie um script para:
+// Ler um valor em reais e exibir o valor convertido em dólar (usar cotação fixa).
+
 #include<stdio.h>
 
 int main(){

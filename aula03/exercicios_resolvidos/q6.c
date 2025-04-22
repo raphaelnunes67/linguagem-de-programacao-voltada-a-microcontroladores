@@ -1,3 +1,6 @@
+// Crie um script para:
+// Calcular a área de um círculo: A = πr^2 (usar π = 3.14).
+
 #include<stdio.h>
 
 int main(){

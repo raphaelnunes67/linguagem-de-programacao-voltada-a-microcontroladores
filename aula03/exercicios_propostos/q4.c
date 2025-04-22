@@ -1,3 +1,6 @@
+//Crie um script para:
+// Calcular a pressão: P = F / A
+
 #include<stdio.h>
 
 int main(){

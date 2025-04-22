@@ -1,3 +1,6 @@
+// Crie um script para:
+// Calcular o volume de um cubo: V = l^3.
+
 #include<stdio.h>
 
 int main(){
